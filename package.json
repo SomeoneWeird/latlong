@@ -1,0 +1,26 @@
+{
+  "name": "simple-latlong",
+  "version": "0.0.0",
+  "description": "Crazy simple module for adding distance to latlongs",
+  "main": "latlong.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SomeoneWeird/latlong.git"
+  },
+  "keywords": [
+    "latitude",
+    "longitude",
+    "distance",
+    "location",
+    "position"
+  ],
+  "author": "Adam Brady <adam@boxxen.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SomeoneWeird/latlong/issues"
+  },
+  "homepage": "https://github.com/SomeoneWeird/latlong"
+}
